@@ -1,0 +1,3 @@
+C:/Users/Asus/FinalOdevi/cmake-build-debug/CMakeFiles/FinalOdevi.dir
+C:/Users/Asus/FinalOdevi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/FinalOdevi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
